@@ -1,0 +1,5 @@
+weight = input('体重：')
+height = input('身高：')
+w = float(weight)
+h = float(height)
+print('BMI = %f',weight/(height*height))

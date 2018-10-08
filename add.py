@@ -1,0 +1,5 @@
+a = input('输入第一个数：')
+b = input('输入第二个数：')
+intA = int(a)
+intB = int(b)
+print('两者之和：',intA+intB)
