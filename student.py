@@ -1,0 +1,2 @@
+def Student(object):
+	pass
